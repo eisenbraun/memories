@@ -1,0 +1,26 @@
+{
+  "name": "memories",
+  "version": "0.1.0",
+  "description": "A digital scrapbook theme for Grav CMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git://github.com/eisenbraun/memories.git",
+  "keywords": [
+    "Grav",
+    "Memories",
+    "Gallery",
+    "Photos",
+    "Scrapbook"
+  ],
+  "author": "Michael Eisenbraun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eisenbraun/memories/issues"
+  },
+  "homepage": "https://github.com/eisenbraun/memories",
+  "devDependencies": {
+    "foundation-sites": "^6.3.1"
+  }
+}

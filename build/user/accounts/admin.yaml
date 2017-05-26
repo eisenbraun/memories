@@ -1,0 +1,11 @@
+email: krepta00@gmail.com
+fullname: 'Michael Eisenbraun'
+title: Adminstrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$1xVnOP3sqKqEMfGNb2La7Opy94dEidBUpetp4si.CUXeZk9CmV3wa
